@@ -44,6 +44,8 @@
 [Type] == "Dungeon" # [IgnoreMap] == "true"
 [Type] == "Torture Chamber Map" # [IgnoreMap] == "true" // Bot get stucked on this one, and boss is totally OP anyway..
 [Type] == "Dry Peninsula Map" # [IgnoreMap] == "true"
+[Type] == "Ghetto Map" # [IgnoreMap] == "true"
+[Type] == "Labyrinth Map" # [IgnoreMap] == "true"
 
 /////////////////////////////////////////////////////////////////////////////////////
 //                                                                                 //
@@ -187,7 +189,7 @@
 
 
 // [Type] == "Crypt Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // The Coward's Trial
-// [Type] == "Mountain Ledge Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Maelström of Chaos
+// [Type] == "Mountain Ledge Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // MaelstrÃ¶m of Chaos
 // [Type] == "Reef Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Mao Kun
 // [Type] == "Vaal Pyramid Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Vaults of Atziri
 // [Type] == "Overgrown Shrine Map" && [Rarity] == "Unique" # [IgnoreMap] == "true" // Acton's Nightmare
